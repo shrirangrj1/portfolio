@@ -1,0 +1,11 @@
+.mouse-light {
+  position: fixed;
+  width: 60px; /* Size of the light */
+  height: 60px; /* Size of the light */
+  border-radius: 50%;
+  background-color: rgba(255, 64, 129, 0.7); /* Pink color */
+  box-shadow: 0 0 20px rgba(255, 64, 129, 0.5), 
+              0 0 40px rgba(255, 64, 129, 0.3); /* Glowing effect */
+  pointer-events: none; /* Prevents interference with mouse events */
+  transition: background-color 0.2s ease; /* Smooth transition */
+}
