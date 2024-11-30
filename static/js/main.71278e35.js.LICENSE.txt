@@ -4,6 +4,20 @@
 	http://jedwatson.github.io/classnames
 */
 
+/*!
+ * @kurkle/color v0.3.4
+ * https://github.com/kurkle/color#readme
+ * (c) 2024 Jukka Kurkela
+ * Released under the MIT License
+ */
+
+/*!
+ * Chart.js v4.4.6
+ * https://www.chartjs.org
+ * (c) 2024 Chart.js Contributors
+ * Released under the MIT License
+ */
+
 /**
  * @license React
  * react-dom.production.min.js
@@ -55,7 +69,7 @@
  */
 
 /**
- * @mui/styled-engine v6.1.8
+ * @mui/styled-engine v6.1.9
  *
  * @license MIT
  * This source code is licensed under the MIT license found in the
